@@ -13,14 +13,14 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Salah Zaiem
-email: zaiemsalah@gmail.com
+title: Alice Chiocchetti
+email: alice.chiocchetti@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-twitter_username: salah_zaiem
-github_username: salah-zaiem
+twitter_username: alicechiocch
+github_username: alice-chiocchetti
 minimal_mistakes_skin: default
 search: true
 
@@ -57,25 +57,25 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Salah Zaiem"
+  name   : "Alice Chiocchetti"
   avatar : "/assets/images/alice_chiocchetti.jpg"
-  bio    : "PhD student at Telecom Paris working on self-supervised speech representation learning."
+  bio    : "PhD student at Paris School of Economics working at the intersection of public and international economics."
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/salah_zaiem"
+      url: "https://twitter.com/alicechiocch"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/salah-zaiem"
+      url: "https://github.com/alice-chiocchetti"
 
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/salah_zaiem"
+      url: "https://twitter.com/alicechiocch"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/salah-zaiem"
+      url: "https://github.com/alice-chiocchetti"
 
 defaults:
   # _pages
