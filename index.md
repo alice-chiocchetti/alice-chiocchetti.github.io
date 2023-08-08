@@ -7,9 +7,9 @@ author_profile: true
 ---
 
 
-I am currently a PhD student at Telecom Paris under the supervision of Slim Essid and Titouan Parcollet. Before that, I graduated from Ecole Polytechnique in Applied Mathematics and Computer Science, and I also hold a masters degree from ENS Paris-Saclay (MVA Program) in Machine Learning.
+I am currently a PhD student at the Paris School of Economics under the supervision of Gabriel Zucman. Before that, I graduated from Ecole Normale Supérieure Paris-Saclay and Paris School of Economics.
 
 ### Research
 
-I am interested generally in Machine Learning applied to Language and Speech. More precisely, my current research focuses on understanding and motivating the choices in Self-supervised learning pipelines for speech.
+I am interested generally in public finance and inequalities. More precisely, my current research focuses on understanding the use of tax havens by multinational firms and the firm determinants of inequalities.
 
