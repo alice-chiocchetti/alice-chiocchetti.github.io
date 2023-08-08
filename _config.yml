@@ -58,7 +58,7 @@ plugins:
 
 author:
   name   : "Salah Zaiem"
-  avatar : "/assets/images/salah_zaiem.jpg"
+  avatar : "/assets/images/alice_chiocchetti.jpg"
   bio    : "PhD student at Telecom Paris working on self-supervised speech representation learning."
   links:
     - label: "Twitter"
