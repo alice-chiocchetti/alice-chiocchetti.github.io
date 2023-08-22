@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "Alice Chiocchetti"
-  avatar : "/assets/images/alice-chiocchetti.jpeg"
+  avatar : "/assets/alice-chiocchetti.jpeg"
   bio    : "PhD student at Paris School of Economics working at the intersection of public and international economics."
   links:
     - label: "Twitter"
