@@ -56,9 +56,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Alice Chiocchetti"
+  name   : ""
   avatar : "/assets/alice-chiocchetti.jpeg"
-  bio    : "PhD student at Paris School of Economics working at the intersection of public and international economics."
+  bio    : ""
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
